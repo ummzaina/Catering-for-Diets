@@ -1,4 +1,4 @@
-This database has been created for a Catering service for specialized diets. 
+This database has been created for a Catering service for specialized diets aspart of a project for a course. 
 
 A few factors to note are below.
 
